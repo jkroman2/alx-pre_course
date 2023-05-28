@@ -1,1 +1,1 @@
-ALX - on my road to Full stack. #DoingHardThings
+ALX - on my road to Full stack Developer. #DoingHardThings
